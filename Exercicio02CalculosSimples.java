@@ -1,4 +1,4 @@
-public class CalculosSimples {
+public class Exercicio02CalculosSimples  {
     public static void main(String[] args) {
         // Criação de variáveis
         String nome = "Ana";
